@@ -23,7 +23,7 @@ Code is super easy in markdown, which you can easily do inline `(require net/url
 Write what you did!
 Remember that this report must include:
  
- I started off looking at a few different libraries like games, game/board, cards, and web-server but I really liked plot so I decided to stick with that. In the program I tested the code provided and looked at how plot works and what a function, in plot, is. Plot is a very nice racket function that I learned can take a list of mathematical functions or a list of lists including axis and functions. For each plot you can control what the axis say, what the title says, the style of the plot, and the color of each function. In my code there are plots of 2D and 3D functions that show how plot behaves. Racket has a large color database and you can either reference a color with one number, a combination of RGB numbers, or by its direct symbolic name. Also when plotting multiple functions you can use function-interval to shade in the space inbetween two functions to see what that looks like on a graph. Overall, I really like plot library's ease of use and well documented code 
+ I started off looking at a few different libraries like games, game/board, cards, and web-server but I really liked plot so I decided to stick with that. In the program I tested the code provided and looked at how plot works and what a function, in plot, is. Plot is a very nice racket function that I learned can take a list of mathematical functions or a list of lists including axis and functions. For each plot you can control what the axis say, what the title says, the style of the plot, and the color of each function. In my code there are plots of 2D and 3D functions that show how plot behaves. Racket has a large color database and you can either reference a color with one number, a combination of RGB numbers, or by its direct symbolic name. Also when plotting multiple functions you can use function-interval to shade in the space inbetween two functions to see what that looks like on a graph. Overall, I really like plot library's ease of use and well documented code. 
  
 * a narrative of what you did
 * the code that you wrote
@@ -198,7 +198,13 @@ Remember that this report must include:
 * Output from the code
 It displays each of the plots in the code. The 3D plots can be turned in different angles and the 2D plots can be zoomed in on.
 
-I am including the pics of the output in the pull request comment.
+![image](https://cloud.githubusercontent.com/assets/10951873/6933471/c26ddaa0-d7f5-11e4-82b9-34546b6c5705.png)
+![image](https://cloud.githubusercontent.com/assets/10951873/6933472/c4c6002a-d7f5-11e4-84b6-4286b5ca319e.png)
+![image](https://cloud.githubusercontent.com/assets/10951873/6933475/c851ff00-d7f5-11e4-88d8-81215f57722a.png)
+![image](https://cloud.githubusercontent.com/assets/10951873/6933477/cab62bae-d7f5-11e4-8608-e728d733f9d4.png)
+![image](https://cloud.githubusercontent.com/assets/10951873/6933480/ce996bfa-d7f5-11e4-8d33-5b3ea152d176.png)
+![image](https://cloud.githubusercontent.com/assets/10951873/6933481/d184dd90-d7f5-11e4-97f2-92c3f7c2a805.png)
+
 
 ### How to Do and Submit this assignment
 
