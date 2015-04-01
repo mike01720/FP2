@@ -198,8 +198,7 @@ Remember that this report must include:
 * Output from the code
 It displays each of the plots in the code. The 3D plots can be turned in different angles and the 2D plots can be zoomed in on.
 
-I included the diagrams in the comment
-
+I am including the pics of the output in the pull request comment.
 
 ### How to Do and Submit this assignment
 
